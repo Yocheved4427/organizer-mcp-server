@@ -80,7 +80,7 @@ Components:
 
 ```bash
 git clone https://github.com/Yocheved4427/organizer-mcp-server.git
-cd organizer-mcp-server/organizer-mcp-server
+cd organizer-mcp-server
 
 python -m venv .venv
 .venv\Scripts\activate          # Windows
@@ -88,8 +88,6 @@ python -m venv .venv
 
 pip install -r requirements.txt
 ```
-
-The project lives in the `organizer-mcp-server/` subfolder of the repository, so the second `organizer-mcp-server` in the `cd` command is intentional.
 
 Optional: restrict which folders the server may touch (strongly recommended, see [Security](#error-handling-security-and-limitations)):
 

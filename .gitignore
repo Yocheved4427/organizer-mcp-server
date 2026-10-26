@@ -8,3 +8,96 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+# Python
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+env/
+ENV/
+env.bak/
+venv.bak/
+# IDEs
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+htmlcov/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+# Environment variables
+.env.local
+.env.*.local
+# Logs
+*.log
+logs/
+*.log.*
+# OS
+.AppleDouble
+.LSOverride
+._*
+# IDE specific
+*.iml
+*.iws
+*.ipr
+*.sublime-settings
+.vscode/settings.json
+.vscode/extensions.json
+# Local development
+local/
+temp/
+tmp/
+.tmp/
+# Build artifacts
+*.whl
+*.tar.gz
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+# Type checking
+# Performance profiling
+.prof
+*.prof
+*.lprof
+# Miscellaneous
+.cache/
+*.pickle
+*.pkl
+*.sqlite
+*.db
+*.sqlite3
+
+.gitignore.backup

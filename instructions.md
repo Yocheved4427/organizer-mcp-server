@@ -468,5 +468,11 @@ organizer-mcp-server/
 │   ├── file_utils.py                # File handling utilities
 │   ├── errors.py                    # Error classes
 │   └── validate.py                  # Input validation
-└── tests/
+├── tests/
+│   └── test_organizer_service.py
+├── .env.example                     # Environment configuration template
+├── mcp.example.json                 # Client config template
+├── instructions.md                  # This guide
+├── pyproject.toml
+└── requirements.txt
 ```
