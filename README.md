@@ -2,7 +2,7 @@
 
 A Python [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server that lets an AI assistant scan, read, rename, de-duplicate and reorganize files in local folders through a small set of explicit tools.
 
-[Watch the demo](mcp-orgenizer.mp4)
+[Watch the demo](mcpDemo.mp4)
 
 ## Overview
 
