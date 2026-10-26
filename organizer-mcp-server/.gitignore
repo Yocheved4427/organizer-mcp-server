@@ -1,0 +1,119 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# OS
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+._*
+
+# IDE specific
+*.iml
+*.iws
+*.ipr
+.idea/
+*.sublime-settings
+.vscode/settings.json
+.vscode/extensions.json
+
+# Local development
+local/
+temp/
+tmp/
+.tmp/
+
+# Build artifacts
+*.whl
+*.tar.gz
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Performance profiling
+.prof
+*.prof
+*.lprof
+
+# Miscellaneous
+.cache/
+.pytest_cache/
+*.pickle
+*.pkl
+*.sqlite
+*.db
+*.sqlite3
